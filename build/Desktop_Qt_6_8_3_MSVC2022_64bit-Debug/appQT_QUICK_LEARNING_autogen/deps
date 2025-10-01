@@ -1,4 +1,122 @@
 appQT_QUICK_LEARNING_autogen/timestamp: \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/QAbstractListModel \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/QString \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/QVector \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/q20functional.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/q20memory.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/q20type_traits.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/q20utility.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/q23utility.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qabstractitemmodel.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qalgorithms.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qanystringview.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qarraydata.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qarraydataops.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qarraydatapointer.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qassert.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qatomic.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qatomic_cxx11.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qbasicatomic.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qbindingstorage.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qbytearray.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qbytearrayalgorithms.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qbytearraylist.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qbytearrayview.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qchar.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qcompare.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qcompare_impl.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qcomparehelpers.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qcompilerdetection.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qconfig.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qconstructormacros.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qcontainerfwd.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qcontainerinfo.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qcontainertools_impl.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qcontiguouscache.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qdarwinhelpers.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qdatastream.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qdebug.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qexceptionhandling.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qflags.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qfloat16.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qforeach.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qfunctionaltools_impl.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qfunctionpointer.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qgenericatomic.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qglobal.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qglobalstatic.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qhash.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qhashfunctions.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qiodevicebase.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qiterable.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qiterator.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qlatin1stringview.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qlist.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qlogging.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qmalloc.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qmap.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qmath.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qmetacontainer.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qmetatype.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qminmax.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qnamespace.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qnumeric.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qobject.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qobject_impl.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qobjectdefs.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qobjectdefs_impl.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qoverload.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qpair.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qprocessordetection.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qrefcount.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qscopedpointer.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qscopeguard.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qset.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qshareddata.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qshareddata_impl.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qsharedpointer.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qsharedpointer_impl.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qstring.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qstringalgorithms.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qstringbuilder.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qstringconverter.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qstringconverter_base.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qstringfwd.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qstringlist.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qstringliteral.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qstringmatcher.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qstringtokenizer.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qstringview.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qswap.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qsysinfo.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qsystemdetection.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qtaggedpointer.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qtclasshelpermacros.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qtconfiginclude.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qtconfigmacros.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qtcore-config.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qtcoreexports.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qtdeprecationdefinitions.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qtdeprecationmarkers.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qtenvironmentvariables.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qtextstream.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qtmetamacros.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qtnoop.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qtpreprocessorsupport.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qtresource.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qttranslation.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qttypetraits.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qtversion.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qtversionchecks.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qtypeinfo.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qtypes.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qutf8stringview.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qvariant.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qvarlengtharray.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qvector.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qversiontagging.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qxptype_traits.h \
+	C:/Qt/6.8.3/msvc2022_64/include/QtCore/qyieldcpu.h \
 	C:/Qt/6.8.3/msvc2022_64/lib/cmake/Qt6/FindWrapAtomic.cmake \
 	C:/Qt/6.8.3/msvc2022_64/lib/cmake/Qt6/FindWrapVulkanHeaders.cmake \
 	C:/Qt/6.8.3/msvc2022_64/lib/cmake/Qt6/Qt6Config.cmake \
@@ -879,37 +997,102 @@ appQT_QUICK_LEARNING_autogen/timestamp: \
 	C:/Qt/6.8.3/msvc2022_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateConfigVersionImpl.cmake \
 	C:/Qt/6.8.3/msvc2022_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateTargets.cmake \
 	C:/Qt/6.8.3/msvc2022_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateVersionlessAliasTargets.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeCXXCompiler.cmake.in \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp \
 	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeCXXInformation.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeCompilerIdDetection.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeDetermineCXXCompiler.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeDetermineCompiler.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeDetermineCompilerABI.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeDetermineCompilerSupport.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeDetermineRCCompiler.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeDetermineSystem.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindBinUtils.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeFindDependencyMacro.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeNinjaFindMake.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeParseImplicitIncludeInfo.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeParseImplicitLinkInfo.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeParseLibraryArchitecture.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeRCCompiler.cmake.in \
 	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeRCInformation.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeSystem.cmake.in \
 	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeTestCXXCompiler.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeTestCompilerCommon.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CMakeTestRCCompiler.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CheckCXXCompilerFlag.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CheckCXXSourceCompiles.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CheckIncludeFileCXX.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/CheckLibraryExists.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/ADSP-DetermineCompiler.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/ARMCC-DetermineCompiler.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/ARMClang-DetermineCompiler.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/AppleClang-DetermineCompiler.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/Borland-DetermineCompiler.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/Clang-DetermineCompiler.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/Clang-DetermineCompilerInternal.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/Cray-DetermineCompiler.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/CrayClang-DetermineCompiler.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/Embarcadero-DetermineCompiler.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/Fujitsu-DetermineCompiler.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/GHS-DetermineCompiler.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/HP-CXX-DetermineCompiler.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/IAR-DetermineCompiler.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/Intel-DetermineCompiler.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/MSVC-CXX-CXXImportStd.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/MSVC-CXX.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/MSVC-DetermineCompiler.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/MSVC.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/NVHPC-DetermineCompiler.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/NVIDIA-DetermineCompiler.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/OrangeC-DetermineCompiler.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/PGI-DetermineCompiler.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/PathScale-DetermineCompiler.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/SCO-DetermineCompiler.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/TI-DetermineCompiler.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/TIClang-DetermineCompiler.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/Tasking-DetermineCompiler.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/Watcom-DetermineCompiler.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/XL-CXX-DetermineCompiler.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindPackageMessage.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindThreads.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/FindVulkan.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/GNUInstallDirs.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Internal/CMakeDetermineLinkerId.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Internal/CheckCompilerFlag.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Internal/CheckFlagCommonConfig.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Internal/CheckSourceCompiles.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Internal/FeatureTesting.cmake \
+	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-Determine-CXX.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-MSVC-CXX.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows-MSVC.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows.cmake \
 	C:/Qt/Tools/CMake_64/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake \
 	C:/Users/esis/Documents/QT_QUICK_LEARNING/CMakeLists.txt \
+	C:/Users/esis/Documents/QT_QUICK_LEARNING/ContactModel.cpp \
+	C:/Users/esis/Documents/QT_QUICK_LEARNING/ContactModel.h \
 	C:/Users/esis/Documents/QT_QUICK_LEARNING/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/.qt/qml_imports/appQT_QUICK_LEARNING_conf.cmake \
 	C:/Users/esis/Documents/QT_QUICK_LEARNING/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/.qtc/package-manager/auto-setup.cmake \
 	C:/Users/esis/Documents/QT_QUICK_LEARNING/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/.qtc/package-manager/maintenance_tool_provider.cmake \

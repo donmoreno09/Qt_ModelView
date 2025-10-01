@@ -1,0 +1,5 @@
+module ContactApp
+typeinfo ContactApp.qmltypes
+prefer :/ContactApp/
+Main 1.0 Main.qml
+

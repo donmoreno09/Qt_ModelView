@@ -2,5 +2,4 @@ module QT_QUICK_LEARNING
 typeinfo appQT_QUICK_LEARNING.qmltypes
 prefer :/qt/qml/QT_QUICK_LEARNING/
 Main 1.0 Main.qml
-ToDoList 1.0 ToDoList.qml
 
