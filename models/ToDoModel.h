@@ -1,12 +1,17 @@
 #ifndef TODOMODEL_H
 #define TODOMODEL_H
 
-#include <QObject>
 #include <QAbstractListModel>
+#include <QQmlEngine>
+
+class ToDoList;
 
 class ToDoModel : public QAbstractListModel
 {
     Q_OBJECT
+    QML_ELEMENT
+    Q_PROPERTY(ToDoList* list READ list WRITE setList)
+
 public:
     explicit ToDoModel(QObject *parent = nullptr);
 
@@ -15,12 +20,24 @@ public:
         DescriptionRole
     };
 
-    //Basic Functionality:
+    // Basic functionality:
     int rowCount(const QModelIndex &parent = QModelIndex()) const override;
+
+    QVariant data(const QModelIndex &index, int role = Qt::DisplayRole) const override;
+
+    // Editable:
+    bool setData(const QModelIndex &index, const QVariant &value,
+                 int role = Qt::EditRole) override;
+
+    Qt::ItemFlags flags(const QModelIndex& index) const override;
 
     virtual QHash<int, QByteArray> roleNames() const override;
 
-signals:
+    ToDoList* list() const;
+    void setList(ToDoList* list);
+
+private:
+    ToDoList* mList;
 };
 
 #endif // TODOMODEL_H

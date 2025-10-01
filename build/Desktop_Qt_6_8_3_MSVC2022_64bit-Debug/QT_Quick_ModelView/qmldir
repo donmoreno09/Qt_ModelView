@@ -1,0 +1,6 @@
+module QT_Quick_ModelView
+typeinfo appQT_Quick_ModelView.qmltypes
+prefer :/qt/qml/QT_Quick_ModelView/
+Main 1.0 Main.qml
+ToDoList 1.0 ToDoList.qml
+

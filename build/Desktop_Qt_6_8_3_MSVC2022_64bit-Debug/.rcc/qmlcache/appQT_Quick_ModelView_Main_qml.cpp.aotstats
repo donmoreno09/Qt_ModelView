@@ -1,0 +1,20 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 27,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"centerIn\".",
+                        "functionName": "centerIn",
+                        "line": 12
+                    }
+                ],
+                "filepath": "C:/Users/esis/Documents/QT_QUICK_LEARNING/Main.qml"
+            }
+        ],
+        "moduleId": "QT_Quick_ModelView(appQT_Quick_ModelView)"
+    }
+]

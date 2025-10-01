@@ -1,3 +1,3 @@
-set(__QT_DEPLOY_TARGET_appQT_QUICK_LEARNING_FILE C:/Users/esis/Documents/QT_QUICK_LEARNING/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/appQT_QUICK_LEARNING.exe)
-set(__QT_DEPLOY_TARGET_appQT_QUICK_LEARNING_TYPE EXECUTABLE)
-set(__QT_DEPLOY_TARGET_appQT_QUICK_LEARNING_RUNTIME_DLLS C:/Qt/6.8.3/msvc2022_64/bin/Qt6Quickd.dll;C:/Qt/6.8.3/msvc2022_64/bin/Qt6QmlMetad.dll;C:/Qt/6.8.3/msvc2022_64/bin/Qt6QmlWorkerScriptd.dll;C:/Qt/6.8.3/msvc2022_64/bin/Qt6QmlModelsd.dll;C:/Qt/6.8.3/msvc2022_64/bin/Qt6Qmld.dll;C:/Qt/6.8.3/msvc2022_64/bin/Qt6Networkd.dll;C:/Qt/6.8.3/msvc2022_64/bin/Qt6OpenGLd.dll;C:/Qt/6.8.3/msvc2022_64/bin/Qt6Guid.dll;C:/Qt/6.8.3/msvc2022_64/bin/Qt6Cored.dll)
+set(__QT_DEPLOY_TARGET_appQT_Quick_ModelView_FILE C:/Users/esis/Documents/QT_QUICK_LEARNING/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/appQT_Quick_ModelView.exe)
+set(__QT_DEPLOY_TARGET_appQT_Quick_ModelView_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_appQT_Quick_ModelView_RUNTIME_DLLS C:/Qt/6.8.3/msvc2022_64/bin/Qt6Quickd.dll;C:/Qt/6.8.3/msvc2022_64/bin/Qt6QmlMetad.dll;C:/Qt/6.8.3/msvc2022_64/bin/Qt6QmlWorkerScriptd.dll;C:/Qt/6.8.3/msvc2022_64/bin/Qt6QmlModelsd.dll;C:/Qt/6.8.3/msvc2022_64/bin/Qt6Qmld.dll;C:/Qt/6.8.3/msvc2022_64/bin/Qt6Networkd.dll;C:/Qt/6.8.3/msvc2022_64/bin/Qt6OpenGLd.dll;C:/Qt/6.8.3/msvc2022_64/bin/Qt6Guid.dll;C:/Qt/6.8.3/msvc2022_64/bin/Qt6Cored.dll)

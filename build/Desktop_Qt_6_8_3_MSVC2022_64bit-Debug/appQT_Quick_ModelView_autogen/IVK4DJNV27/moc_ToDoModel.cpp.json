@@ -1,0 +1,40 @@
+{
+    "classes": [
+        {
+            "classInfos": [
+                {
+                    "name": "QML.Element",
+                    "value": "auto"
+                }
+            ],
+            "className": "ToDoModel",
+            "lineNumber": 9,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "list",
+                    "read": "list",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "ToDoList*",
+                    "user": false,
+                    "write": "setList"
+                }
+            ],
+            "qualifiedClassName": "ToDoModel",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QAbstractListModel"
+                }
+            ]
+        }
+    ],
+    "inputFile": "ToDoModel.h",
+    "outputRevision": 68
+}
