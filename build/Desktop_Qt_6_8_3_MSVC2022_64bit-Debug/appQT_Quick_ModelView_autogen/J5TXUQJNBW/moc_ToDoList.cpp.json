@@ -1,8 +1,14 @@
 {
     "classes": [
         {
+            "classInfos": [
+                {
+                    "name": "QML.Element",
+                    "value": "auto"
+                }
+            ],
             "className": "ToDoList",
-            "lineNumber": 13,
+            "lineNumber": 14,
             "object": true,
             "qualifiedClassName": "ToDoList",
             "signals": [

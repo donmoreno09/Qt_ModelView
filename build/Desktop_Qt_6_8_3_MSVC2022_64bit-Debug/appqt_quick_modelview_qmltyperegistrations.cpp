@@ -7,6 +7,9 @@
 #include <QtQml/qqml.h>
 #include <QtQml/qqmlmoduleregistration.h>
 
+#if __has_include(<ToDoList.h>)
+#  include <ToDoList.h>
+#endif
 #if __has_include(<ToDoModel.h>)
 #  include <ToDoModel.h>
 #endif
@@ -20,6 +23,7 @@
 Q_QMLTYPE_EXPORT void qml_register_types_QT_Quick_ModelView()
 {
     QT_WARNING_PUSH QT_WARNING_DISABLE_DEPRECATED
+    qmlRegisterTypesAndRevisions<ToDoList>("QT_Quick_ModelView", 1);
     qmlRegisterTypesAndRevisions<ToDoModel>("QT_Quick_ModelView", 1);
     qmlRegisterAnonymousType<QAbstractItemModel, 254>("QT_Quick_ModelView", 1);
     QT_WARNING_POP

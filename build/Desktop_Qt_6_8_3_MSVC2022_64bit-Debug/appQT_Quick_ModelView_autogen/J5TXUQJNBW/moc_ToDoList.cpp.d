@@ -2,8 +2,11 @@ C:/Users/esis/Documents/QT_QUICK_LEARNING/build/Desktop_Qt_6_8_3_MSVC2022_64bit-
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/QObject \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/QVector \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/q20functional.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtCore/q20iterator.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/q20memory.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/q20type_traits.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtCore/q20utility.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtCore/q23utility.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qalgorithms.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qanystringview.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qarraydata.h \
@@ -18,6 +21,7 @@ C:/Users/esis/Documents/QT_QUICK_LEARNING/build/Desktop_Qt_6_8_3_MSVC2022_64bit-
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qbytearrayalgorithms.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qbytearraylist.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qbytearrayview.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtCore/qcalendar.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qchar.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qcompare.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qcompare_impl.h \
@@ -28,8 +32,11 @@ C:/Users/esis/Documents/QT_QUICK_LEARNING/build/Desktop_Qt_6_8_3_MSVC2022_64bit-
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qcontainerfwd.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qcontainerinfo.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qcontainertools_impl.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtCore/qcontiguouscache.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qdarwinhelpers.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qdatastream.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtCore/qdatetime.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtCore/qdebug.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qexceptionhandling.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qflags.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qfloat16.h \
@@ -39,16 +46,20 @@ C:/Users/esis/Documents/QT_QUICK_LEARNING/build/Desktop_Qt_6_8_3_MSVC2022_64bit-
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qgenericatomic.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qglobal.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qglobalstatic.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtCore/qhash.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qhashfunctions.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qiodevicebase.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qiterable.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qiterator.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qlatin1stringview.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qlist.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtCore/qlocale.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qlogging.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qmalloc.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtCore/qmap.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qmath.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qmetacontainer.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtCore/qmetaobject.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qmetatype.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qminmax.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qnamespace.h \
@@ -59,10 +70,17 @@ C:/Users/esis/Documents/QT_QUICK_LEARNING/build/Desktop_Qt_6_8_3_MSVC2022_64bit-
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qobjectdefs_impl.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qoverload.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qpair.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtCore/qpointer.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qprocessordetection.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qrefcount.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qscopedpointer.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qscopeguard.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtCore/qset.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtCore/qshareddata.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtCore/qshareddata_impl.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtCore/qsharedpointer.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtCore/qsharedpointer_impl.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtCore/qspan.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qstring.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qstringalgorithms.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qstringbuilder.h \
@@ -86,6 +104,8 @@ C:/Users/esis/Documents/QT_QUICK_LEARNING/build/Desktop_Qt_6_8_3_MSVC2022_64bit-
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qtdeprecationdefinitions.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qtdeprecationmarkers.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qtenvironmentvariables.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtCore/qtextstream.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtCore/qtimezone.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qtmetamacros.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qtnoop.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qtpreprocessorsupport.h \
@@ -95,9 +115,37 @@ C:/Users/esis/Documents/QT_QUICK_LEARNING/build/Desktop_Qt_6_8_3_MSVC2022_64bit-
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qtversion.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qtversionchecks.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qtypeinfo.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtCore/qtyperevision.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qtypes.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtCore/qurl.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qutf8stringview.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtCore/qvariant.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtCore/qvarlengtharray.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qvector.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtCore/qversionnumber.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qversiontagging.h \
   C:/Qt/6.8.3/msvc2022_64/include/QtCore/qxptype_traits.h \
-  C:/Qt/6.8.3/msvc2022_64/include/QtCore/qyieldcpu.h
+  C:/Qt/6.8.3/msvc2022_64/include/QtCore/qyieldcpu.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtNetwork/qtnetwork-config.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtNetwork/qtnetworkexports.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtNetwork/qtnetworkglobal.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtQml/QQmlEngine \
+  C:/Qt/6.8.3/msvc2022_64/include/QtQml/qjsengine.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtQml/qjsmanagedvalue.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtQml/qjsnumbercoercion.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtQml/qjsprimitivevalue.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtQml/qjsvalue.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtQml/qqml.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtQml/qqmlabstracturlinterceptor.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtQml/qqmldebug.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtQml/qqmlengine.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtQml/qqmlerror.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtQml/qqmllist.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtQml/qqmlparserstatus.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtQml/qqmlprivate.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtQml/qqmlpropertyvaluesource.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtQml/qqmlregistration.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtQml/qtqml-config.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtQml/qtqmlexports.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtQml/qtqmlglobal.h \
+  C:/Qt/6.8.3/msvc2022_64/include/QtQmlIntegration/qqmlintegration.h

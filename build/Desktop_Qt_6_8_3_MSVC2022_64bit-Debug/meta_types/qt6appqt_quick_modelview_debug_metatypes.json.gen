@@ -18,6 +18,7 @@
                         "final": false,
                         "index": 0,
                         "name": "list",
+                        "notify": "listChanged",
                         "read": "list",
                         "required": false,
                         "scriptable": true,
@@ -28,6 +29,14 @@
                     }
                 ],
                 "qualifiedClassName": "ToDoModel",
+                "signals": [
+                    {
+                        "access": "public",
+                        "index": 0,
+                        "name": "listChanged",
+                        "returnType": "void"
+                    }
+                ],
                 "superClasses": [
                     {
                         "access": "public",
@@ -42,8 +51,14 @@
     {
         "classes": [
             {
+                "classInfos": [
+                    {
+                        "name": "QML.Element",
+                        "value": "auto"
+                    }
+                ],
                 "className": "ToDoList",
-                "lineNumber": 13,
+                "lineNumber": 14,
                 "object": true,
                 "qualifiedClassName": "ToDoList",
                 "signals": [

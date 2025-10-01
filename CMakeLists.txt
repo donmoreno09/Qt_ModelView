@@ -15,7 +15,7 @@ qt_add_executable(appQT_Quick_ModelView
 
 set(qml_files
     Main.qml
-    ToDoList.qml
+    ToDoListView.qml
 )
 
 set(cpp_sources

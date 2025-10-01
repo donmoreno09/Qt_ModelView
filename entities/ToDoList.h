@@ -3,6 +3,7 @@
 
 #include <QObject>
 #include <QVector>
+#include <QQmlEngine>
 
 struct ToDoItem
 {
@@ -13,6 +14,7 @@ struct ToDoItem
 class ToDoList : public QObject
 {
     Q_OBJECT
+    QML_ELEMENT
 public:
     explicit ToDoList(QObject *parent = nullptr);
 

@@ -5,67 +5,83 @@
                 "entries": [
                     {
                         "codegenSuccessfull": true,
-                        "column": 27,
-                        "durationMicroseconds": 281,
+                        "column": 23,
+                        "durationMicroseconds": 270,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 13
                     },
                     {
                         "codegenSuccessfull": true,
-                        "column": 24,
-                        "durationMicroseconds": 163,
+                        "column": 31,
+                        "durationMicroseconds": 82,
                         "errorMessage": "",
-                        "functionName": "width",
-                        "line": 23
-                    },
-                    {
-                        "codegenSuccessfull": false,
-                        "column": 30,
-                        "durationMicroseconds": 0,
-                        "errorMessage": "Could not find property \"checked\".",
-                        "functionName": "checked",
-                        "line": 26
-                    },
-                    {
-                        "codegenSuccessfull": false,
-                        "column": 32,
-                        "durationMicroseconds": 0,
-                        "errorMessage": "Could not find signal \"clicked\".",
-                        "functionName": "onClicked",
-                        "line": 27
+                        "functionName": "fill",
+                        "line": 20
                     },
                     {
                         "codegenSuccessfull": false,
                         "column": 27,
-                        "durationMicroseconds": 0,
-                        "errorMessage": "Could not find property \"text\".",
-                        "functionName": "text",
-                        "line": 30
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot retrieve a non-object type by ID: todoList",
+                        "functionName": "list",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 28,
+                        "durationMicroseconds": 151,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 28
                     },
                     {
                         "codegenSuccessfull": false,
-                        "column": 40,
+                        "column": 34,
                         "durationMicroseconds": 0,
-                        "errorMessage": "Could not find signal \"editingFinished\".",
-                        "functionName": "onEditingFinished",
+                        "errorMessage": "Could not find property \"checked\".",
+                        "functionName": "checked",
                         "line": 31
                     },
                     {
                         "codegenSuccessfull": false,
-                        "column": 24,
+                        "column": 36,
                         "durationMicroseconds": 0,
                         "errorMessage": "Could not find signal \"clicked\".",
                         "functionName": "onClicked",
-                        "line": 43
+                        "line": 32
                     },
                     {
                         "codegenSuccessfull": false,
-                        "column": 24,
+                        "column": 31,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"text\".",
+                        "functionName": "text",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 44,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"editingFinished\".",
+                        "functionName": "onEditingFinished",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
                         "durationMicroseconds": 0,
                         "errorMessage": "Could not find signal \"clicked\".",
                         "functionName": "onClicked",
                         "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find signal \"clicked\".",
+                        "functionName": "onClicked",
+                        "line": 54
                     }
                 ],
                 "filepath": "C:/Users/esis/Documents/QT_QUICK_LEARNING/ToDoList.qml"

@@ -17,6 +17,7 @@
                     "final": false,
                     "index": 0,
                     "name": "list",
+                    "notify": "listChanged",
                     "read": "list",
                     "required": false,
                     "scriptable": true,
@@ -27,6 +28,14 @@
                 }
             ],
             "qualifiedClassName": "ToDoModel",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "listChanged",
+                    "returnType": "void"
+                }
+            ],
             "superClasses": [
                 {
                     "access": "public",

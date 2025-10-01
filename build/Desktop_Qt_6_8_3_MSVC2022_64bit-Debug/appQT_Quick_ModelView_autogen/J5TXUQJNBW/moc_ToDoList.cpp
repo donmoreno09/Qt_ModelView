@@ -38,6 +38,8 @@ struct qt_meta_tag_ZN8ToDoListE_t {};
 #ifdef QT_MOC_HAS_STRINGDATA
 static constexpr auto qt_meta_stringdata_ZN8ToDoListE = QtMocHelpers::stringData(
     "ToDoList",
+    "QML.Element",
+    "auto",
     "preItemAppended",
     "",
     "postItemAppended",
@@ -56,28 +58,31 @@ Q_CONSTINIT static const uint qt_meta_data_ZN8ToDoListE[] = {
  // content:
       12,       // revision
        0,       // classname
-       0,    0, // classinfo
-       6,   14, // methods
+       1,   14, // classinfo
+       6,   16, // methods
        0,    0, // properties
        0,    0, // enums/sets
        0,    0, // constructors
        0,       // flags
        4,       // signalCount
 
+ // classinfo: key, value
+       1,    2,
+
  // signals: name, argc, parameters, tag, flags, initial metatype offsets
-       1,    0,   50,    2, 0x06,    1 /* Public */,
-       3,    0,   51,    2, 0x06,    2 /* Public */,
-       4,    1,   52,    2, 0x06,    3 /* Public */,
-       6,    0,   55,    2, 0x06,    5 /* Public */,
+       3,    0,   52,    4, 0x06,    1 /* Public */,
+       5,    0,   53,    4, 0x06,    2 /* Public */,
+       6,    1,   54,    4, 0x06,    3 /* Public */,
+       8,    0,   57,    4, 0x06,    5 /* Public */,
 
  // slots: name, argc, parameters, tag, flags, initial metatype offsets
-       7,    0,   56,    2, 0x0a,    6 /* Public */,
-       8,    0,   57,    2, 0x0a,    7 /* Public */,
+       9,    0,   58,    4, 0x0a,    6 /* Public */,
+      10,    0,   59,    4, 0x0a,    7 /* Public */,
 
  // signals: parameters
     QMetaType::Void,
     QMetaType::Void,
-    QMetaType::Void, QMetaType::Int,    5,
+    QMetaType::Void, QMetaType::Int,    7,
     QMetaType::Void,
 
  // slots: parameters
@@ -93,22 +98,22 @@ Q_CONSTINIT const QMetaObject ToDoList::staticMetaObject = { {
     qt_meta_data_ZN8ToDoListE,
     qt_static_metacall,
     nullptr,
-    qt_incomplete_metaTypeArray<qt_meta_tag_ZN8ToDoListE_t,
+    qt_metaTypeArray<
         // Q_OBJECT / Q_GADGET
-        QtPrivate::TypeAndForceComplete<ToDoList, std::true_type>,
+        ToDoList,
         // method 'preItemAppended'
-        QtPrivate::TypeAndForceComplete<void, std::false_type>,
+        void,
         // method 'postItemAppended'
-        QtPrivate::TypeAndForceComplete<void, std::false_type>,
+        void,
         // method 'preItemRemoved'
-        QtPrivate::TypeAndForceComplete<void, std::false_type>,
-        QtPrivate::TypeAndForceComplete<int, std::false_type>,
+        void,
+        int,
         // method 'postItemRemoved'
-        QtPrivate::TypeAndForceComplete<void, std::false_type>,
+        void,
         // method 'appendItem'
-        QtPrivate::TypeAndForceComplete<void, std::false_type>,
+        void,
         // method 'removeCompletedItems'
-        QtPrivate::TypeAndForceComplete<void, std::false_type>
+        void
     >,
     nullptr
 } };

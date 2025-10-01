@@ -10,7 +10,7 @@ class ToDoModel : public QAbstractListModel
 {
     Q_OBJECT
     QML_ELEMENT
-    Q_PROPERTY(ToDoList* list READ list WRITE setList)
+    Q_PROPERTY(ToDoList* list READ list WRITE setList NOTIFY listChanged)
 
 public:
     explicit ToDoModel(QObject *parent = nullptr);
@@ -35,6 +35,9 @@ public:
 
     ToDoList* list() const;
     void setList(ToDoList* list);
+
+signals:
+    void listChanged();
 
 private:
     ToDoList* mList;

@@ -1,7 +1,7 @@
 <RCC>
   <qresource prefix="/qt/qml/QT_Quick_ModelView/">
     <file alias="Main.qml">C:/Users/esis/Documents/QT_QUICK_LEARNING/Main.qml</file>
-    <file alias="ToDoList.qml">C:/Users/esis/Documents/QT_QUICK_LEARNING/ToDoList.qml</file>
+    <file alias="ToDoListView.qml">C:/Users/esis/Documents/QT_QUICK_LEARNING/ToDoListView.qml</file>
   </qresource>
 </RCC>
 

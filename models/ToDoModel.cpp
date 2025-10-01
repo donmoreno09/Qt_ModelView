@@ -1,6 +1,5 @@
-#include "ToDomodel.h"
-
-#include "ToDolist.h"
+#include "ToDoModel.h"
+#include "ToDoList.h"
 
 ToDoModel::ToDoModel(QObject *parent)
     : QAbstractListModel(parent)
@@ -96,6 +95,8 @@ void ToDoModel::setList(ToDoList *list)
         mList->disconnect(this);
 
     mList = list;
+
+    emit listChanged();
 
     if (mList) {
         connect(mList, &ToDoList::preItemAppended, this, [=]() {

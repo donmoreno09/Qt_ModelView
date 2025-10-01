@@ -7,12 +7,38 @@ import QtQuick.tooling 1.2
 
 Module {
     Component {
+        file: "ToDoList.h"
+        name: "ToDoList"
+        accessSemantics: "reference"
+        prototype: "QObject"
+        exports: ["QT_Quick_ModelView/ToDoList 1.0"]
+        exportMetaObjectRevisions: [256]
+        Signal { name: "preItemAppended" }
+        Signal { name: "postItemAppended" }
+        Signal {
+            name: "preItemRemoved"
+            Parameter { name: "index"; type: "int" }
+        }
+        Signal { name: "postItemRemoved" }
+        Method { name: "appendItem" }
+        Method { name: "removeCompletedItems" }
+    }
+    Component {
         file: "ToDoModel.h"
         name: "ToDoModel"
         accessSemantics: "reference"
         prototype: "QAbstractListModel"
         exports: ["QT_Quick_ModelView/ToDoModel 1.0"]
         exportMetaObjectRevisions: [256]
-        Property { name: "list"; type: "ToDoList"; isPointer: true; read: "list"; write: "setList"; index: 0 }
+        Property {
+            name: "list"
+            type: "ToDoList"
+            isPointer: true
+            read: "list"
+            write: "setList"
+            notify: "listChanged"
+            index: 0
+        }
+        Signal { name: "listChanged" }
     }
 }

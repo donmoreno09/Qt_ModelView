@@ -1,14 +1,20 @@
-import QtQuick 6.8
-import QtQuick.Controls 6.8
-import QtQuick.Layouts 6.8
+import QtQuick
+import QtQuick.Controls.Fusion
+import QtQuick.Controls
+import QtQuick.Layouts
 
-Window {
+ApplicationWindow {
     width: 640
     height: 480
     visible: true
-    title: qsTr("Learning QT")
+    title: qsTr("ModelView")
 
-    ToDoList {
-        anchors.centerIn: parent
+    Item {
+        anchors.fill: parent
+        anchors.margins: 16
+
+        ToDoListView {
+            anchors.fill: parent
+        }
     }
 }

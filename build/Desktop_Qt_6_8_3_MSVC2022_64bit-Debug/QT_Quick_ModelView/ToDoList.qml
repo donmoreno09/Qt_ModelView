@@ -1,52 +1,58 @@
 import QtQuick 2.7
 import QtQuick.Controls 2.0
 import QtQuick.Layouts 1.3
-
 import QT_Quick_ModelView 1.0
 
+Item {
+    width: 300
+    height: 400
 
-ColumnLayout {
-    Frame {
-        Layout.fillWidth: true
+    ToDoList { id: todoList }  // Create the list instance
 
-        ListView {
-            anchors.fill: parent
-            implicitWidth: 250
-            implicitHeight: 250
-            clip: true
+    ColumnLayout {
+        anchors.fill: parent
 
-            model: ToDoModel {
-                // list: ToDoList
-            }
+        Frame {
+            Layout.fillWidth: true
+            Layout.fillHeight: true
 
-            delegate: RowLayout {
-                width: parent.width
+            ListView {
+                anchors.fill: parent
+                clip: true
 
-                CheckBox {
-                    checked: model.done
-                    onClicked: model.done = checked
+                model: ToDoModel {
+                    list: todoList  // Pass it to the model
                 }
-                TextField {
-                    text: model.description
-                    onEditingFinished: model.description = text
-                    Layout.fillWidth: true
+
+                delegate: RowLayout {
+                    width: parent.width
+
+                    CheckBox {
+                        checked: model.done
+                        onClicked: model.done = checked
+                    }
+                    TextField {
+                        text: model.description
+                        onEditingFinished: model.description = text
+                        Layout.fillWidth: true
+                    }
                 }
             }
         }
-    }
 
-    RowLayout {
-        Button {
-            text: "ADD NEW ITEM"
+        RowLayout {
             Layout.fillWidth: true
 
-            onClicked: ToDoList.appendItem()
-        }
-        Button {
-            text: "REMOVE COMPLETED"
-            Layout.fillWidth: true
-
-            onClicked: ToDoList.removeCompletedItem()
+            Button {
+                text: "ADD NEW ITEM"
+                Layout.fillWidth: true
+                onClicked: todoList.appendItem()
+            }
+            Button {
+                text: "REMOVE COMPLETED"
+                Layout.fillWidth: true
+                onClicked: todoList.removeCompletedItems()
+            }
         }
     }
 }
