@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/QT_QUICK_LEARNING/">
+    <file alias="Main.qml">C:/Users/esis/Documents/QT_QUICK_LEARNING/Main.qml</file>
+    <file alias="ToDoList.qml">C:/Users/esis/Documents/QT_QUICK_LEARNING/ToDoList.qml</file>
+  </qresource>
+</RCC>
+

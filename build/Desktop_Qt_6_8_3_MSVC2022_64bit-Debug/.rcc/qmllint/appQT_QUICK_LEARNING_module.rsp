@@ -1,0 +1,10 @@
+-I
+C:/Users/esis/Documents/QT_QUICK_LEARNING/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug
+-I
+C:/Qt/6.8.3/msvc2022_64/qml
+--resource
+C:/Users/esis/Documents/QT_QUICK_LEARNING/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/.qt/rcc/qmake_QT_QUICK_LEARNING.qrc
+--resource
+C:/Users/esis/Documents/QT_QUICK_LEARNING/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/.qt/rcc/appQT_QUICK_LEARNING_raw_qml_0.qrc
+--module
+QT_QUICK_LEARNING

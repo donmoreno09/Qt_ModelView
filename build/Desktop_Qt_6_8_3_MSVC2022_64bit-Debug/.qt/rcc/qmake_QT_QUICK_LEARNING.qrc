@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/QT_QUICK_LEARNING">
+    <file alias="qmldir">C:/Users/esis/Documents/QT_QUICK_LEARNING/build/Desktop_Qt_6_8_3_MSVC2022_64bit-Debug/QT_QUICK_LEARNING/qmldir</file>
+  </qresource>
+</RCC>
+
